@@ -22,7 +22,7 @@ Please use the Table of Contents (TOC) and the continue to next topic links to n
 
 * <a href="https://github.com/CyberTrainingUSAF/07-Network-Programming/blob/master/00-Table-of-Contents.md" > Networking Concepts </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" > Pseudocode, debugging, & IDEs's </a>
+* <a href="https://github.com/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" > Pseudocode & Intro to debugging </a>
 
 * <a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
 
