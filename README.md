@@ -1,4 +1,4 @@
-## Cyber-A-La-Carte
+## Cyber A-La-Carte
 
 This Repository provides links to all of the the Cyber Training created within the CyberTrainingUSAF Project.  The **A La Carte** is specifically used for training on a stand-alone basis.
 
