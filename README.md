@@ -8,8 +8,11 @@ Please use the Table of Contents (TOC) and the continue to next topic links to n
 
 **WARNING** If you use the course links at the top of the github page (example: CyberTraining/02-Equipment-Setup), to navigate, you will be thrown into the curriculum folder. If this happens, you may scroll down on the page and click return to TOC.
 
-**Use the following links to access the associated Training Table of Contents (TOC):**
+**The following, is a list of accessable Training.  Click on the name of the training you want, in order to access it's Table of Contents (TOC).  From the TOC you will have access to all of the associated curriculum and labs.:**
 
 <a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
 
 ## Course Information
+
+Much of the Training associated with this projected was designed with two things in mind.  First is that the individual recieving the training is willing to research and activily seek out knowledge.  Second is that portions of this training were meant to have an instructor present, so if it appears incomplete you may need to research for the answers to your questions.  There are many free online services, and chatrooms that can be used to help you with questions, if you are not part of our training program.  
+
