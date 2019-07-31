@@ -28,7 +28,7 @@ Please use the Table of Contents (TOC) and the continue to next topic links to n
 
 * <a href="https://github.com/CyberTrainingUSAF/05-Python-Programming/blob/master/00-Table-of-Contents.md" > Python Programming </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md" > Intro to Python Algorithms </a>
+* <a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md" > Python Algorithms </a>
 
 
 ---
