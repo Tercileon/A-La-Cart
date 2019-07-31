@@ -10,8 +10,6 @@ Please use the Table of Contents (TOC) and the continue to next topic links to n
 
 **Use the following links to access the associated Training Table of Contents (TOC):**
 
-<a href="<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
-
-
+<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
 
 ## Course Information
