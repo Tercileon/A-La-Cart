@@ -10,21 +10,26 @@ Please use the Table of Contents (TOC) and the continue to next topic links to n
 
 **The following, is a list of accessable Training.  Click on the name of the training you want, in order to access it's Table of Contents (TOC).  From the TOC you will have access to all of the associated curriculum and labs.:**
 
-* <a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/02-Introduction-to-Git/blob/master/00-Table-of-Contents.md" > Introduction to Git </a>
-
-* <a href="https://github.com/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" > Pseudocode, debugging, & IDEs's </a>
-
-* <a href="https://github.com/CyberTrainingUSAF/05-Python-Programming/blob/master/00-Table-of-Contents.md" > Python Programming </a>
-
-* <a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md" > Intro to Algorithms </a>
-
-* <a href="https://github.com/CyberTrainingUSAF/07-Network-Programming/blob/master/00-Table-of-Contents.md" > Networking Concepts </a>
+* <a href="https://github.com/CyberTrainingUSAF/04-C-Programming/blob/master/00-Table-of-Contents.md" > Assembly </a>
 
 * <a href="https://github.com/CyberTrainingUSAF/04-C-Programming/blob/master/00-Table-of-Contents.md" > C Programming </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/04-C-Programming/blob/master/00-Table-of-Contents.md" > Assembly </a>
+* <a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > C++ Programming </a>
+
+* <a href="https://github.com/CyberTrainingUSAF/02-Introduction-to-Git/blob/master/00-Table-of-Contents.md" > Introduction to Git </a>
+
+
+* <a href="https://github.com/CyberTrainingUSAF/07-Network-Programming/blob/master/00-Table-of-Contents.md" > Networking Concepts </a>
+
+* <a href="https://github.com/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" > Pseudocode, debugging, & IDEs's </a>
+
+* <a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
+
+* <a href="https://github.com/CyberTrainingUSAF/05-Python-Programming/blob/master/00-Table-of-Contents.md" > Python Programming </a>
+
+* <a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md" > Intro to Python Algorithms </a>
+
 
 ---
 
