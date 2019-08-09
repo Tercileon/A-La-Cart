@@ -1,35 +1,33 @@
 ## Cyber A-La-Carte
 
-This Repository provides links to all of the the Cyber Training created within the CyberTrainingUSAF Project.  The **A La Carte** is specifically used for training on a stand-alone basis.
+This Repository provides links to all of the the programming training retrieved for a basic learner.  The **A La Carte** is specifically used for training on a stand-alone basis.
 
 **Links to Navigate the course Curriculum**
 
 Please use the Table of Contents (TOC) and the continue to next topic links to navigate the curriculum. Each curriculum subject is tied to our introduction page which may be accessed from any of our curriculums TOC's. By clicking on the name of the subject (below) you will be taken to the associated TOC. 
 
-**WARNING** If you use the course links at the top of the github page (example: CyberTrainingUSAF/03-Introduction-to-Git), to navigate; you will be thrown into the curriculum folder. This can be confusing to navigate from.  If this happens, you may scroll down on the page and click return to TOC.
+**WARNING** If you use the course links at the top of the github page (example: Tercileon/PowerShell), to navigate; you will be thrown into the topic curriculum folder. This can be confusing to navigate from because the learning files within the folder are not in any specific order.  If this happens, you may scroll down on the page and click return to TOC, this will return you to the table of contents for that course of instruction.
 
 **The following, is a list of accessable Training.  Click on the name of the training you want, in order to access it's Table of Contents (TOC).  From the TOC you will have access to all of the associated curriculum and labs.:**
 
 
-* <a href="https://github.com/CyberTrainingUSAF/04-C-Programming/blob/master/00-Table-of-Contents.md" > Assembly </a>
+* <a href="https://github.com/Tercileon/Intro_to_Git/blob/master/00-Table-of-Contents.md" > Introduction to Git </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/04-C-Programming/blob/master/00-Table-of-Contents.md" > C Programming </a>
+* <a href="https://github.com/Tercileon/PseudoCode_Logic/blob/master/00-Table-of-Contents.md" > Pseudocode & Intro to debugging </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/10-Archive/blob/master/IQT-CPP_Programming/00-Table-of-Contents.md" > C++ Programming </a>
+* <a href="https://github.com/Tercileon/Python/blob/master/00-Table-of-Contents.md" > Python Programming </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/02-Introduction-to-Git/blob/master/00-Table-of-Contents.md" > Introduction to Git </a>
+* <a href="https://github.com/Tercileon/Python_Algorithms/blob/master/00-Table-of-Contents.md" > Python Algorithms </a>
 
+* <a href="https://github.com/Tercileon/Network_Programming/blob/master/00-Table-of-Contents.md" > Networking Concepts </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/07-Network-Programming/blob/master/00-Table-of-Contents.md" > Networking Concepts </a>
+* <a href="https://github.com/Tercileon/C_Programming/blob/master/00-Table-of-Contents.md" > C Programming </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/03-IDE-s-and-Algorithms-Pt.-1/blob/master/00-Table-of-Contents.md" > Pseudocode & Intro to debugging </a>
+* <a href="https://github.com/Tercileon/CPP_Programming/blob/master/00-Table-of-Contents.md" > C++ Programming </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > PowerShell </a>
+* <a href="https://github.com/Tercileon/Assembly/blob/master/00-Table-of-Contents.md" > Assembly </a>
 
-* <a href="https://github.com/CyberTrainingUSAF/05-Python-Programming/blob/master/00-Table-of-Contents.md" > Python Programming </a>
-
-* <a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md" > Python Algorithms </a>
-
+* <a href="https://github.com/Tercileon/PowerShell/blob/master/00-Table-of-Contents.md" > PowerShell </a>
 
 ---
 
