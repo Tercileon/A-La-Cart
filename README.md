@@ -33,5 +33,8 @@ Please use the Table of Contents (TOC) and the continue to next topic links to n
 
 ## Course Information
 
-Much of the Training associated with this projected was designed with two things in mind.  First is that the individual recieving the training is willing to research and activily seek out knowledge.  Second is that portions of this training were meant to have an instructor present, so if it appears incomplete you may need to research for the answers to your questions.  There are many free online services, and chatrooms that can be used to help you with questions, if you are not part of our training program.  
+Much of the Training associated with this projected was designed with two things in mind.  First; individual recieving the training need to be willing to research and activily seek out knowledge.  Second; this training was designed with the intent that an instructor be present, that being the case, parts of the training may appear incomplete, which will require you to research answers to your questions.  There are many free online services, and chatrooms that can be used to help you with questions for those having coding concerns.
+
+Best of Luck!
+
 
